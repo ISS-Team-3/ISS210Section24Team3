@@ -7,4 +7,5 @@
   <li> <em> PlanUSA: Gender and Youth Equality </em> https://www.planusa.org/ </li>
   <li> <em> Stonewall </em> https://www.bbc.com/news/newsbeat-24984781 </li>
 <li> About section, <em> Report of the Commission on Gender Stereotypes in Early Childhood </em> https://www.fawcettsociety.org.uk/Handlers/Download.ashx?IDMF=17fb0c11-f904-469c-a62e-173583d441c8 </li>
+ <li> <em> New Survey Reveals Gender Gap Among Teens Planning To Attend College </em> https://www.3blmedia.com/news/new-survey-reveals-gender-gap-among-teens-planning-attend-college </li>
 </ul>
